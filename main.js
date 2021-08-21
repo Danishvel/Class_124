@@ -21,7 +21,7 @@ function Modelloaded() {
 }
 
 function gotPoses(results) {
-    if (reults.length > 0) {
+    if (results.length > 0) {
         console.log(results);
     }
 }
